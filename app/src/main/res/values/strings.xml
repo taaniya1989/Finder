@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Hobo</string>
+    <string name="app_name">Finder</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="sign_in">"Sign In</string>
@@ -10,11 +10,12 @@
     <string name="reset">Reset</string>
     <string name="submit">Submit</string>
     <string name="sign_up_text">Sign Up</string>
-    <string name="signUpTitle">Register User</string>
+    <string name="home">Home</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="my_trips">My Trips</string>
+    <string name="my_profile">My Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="action_settings">App Info</string>
+    <string name="title_activity_main">Tanvi</string>
 
-    <string name="title_activity_main">MainActivity</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
 </resources>
